@@ -54,6 +54,17 @@ Para relatar uma vulnerabilidade, não abra uma issue pública: siga as
 orientações de [SECURITY.md](SECURITY.md). O acesso ao produto e aos
 instaladores é concedido separadamente pelo mantenedor a usuários autorizados.
 
+## Autoria e inspiração
+
+O **OpenEdge ABL Toolkit** foi criado por
+[Diogo Dias Fontoura](https://github.com/Psykhepathos). Você também pode
+encontrá-lo no [LinkedIn](https://www.linkedin.com/in/diogo-fontoura/).
+
+O projeto teve como inspiração a extensão
+[OpenEdge-ZExt](https://marketplace.visualstudio.com/items?itemName=EzequielGandolfi.openedge-zext).
+O OpenEdge ABL Toolkit é um projeto independente; esse reconhecimento não
+implica afiliação, patrocínio ou endosso entre os projetos.
+
 ## Sobre o projeto
 
 OpenEdge e Progress são marcas de seus respectivos proprietários. Este projeto
